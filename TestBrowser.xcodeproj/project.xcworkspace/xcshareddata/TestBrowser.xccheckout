@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F096018-FF3E-42FC-9A20-4163B0EE099D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestBrowser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7BDD5759-50FA-46D9-B1F9-A3306F10BBFB</key>
+		<string>https://github.com/osoblanco/IOS-test-Browser</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestBrowser.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7BDD5759-50FA-46D9-B1F9-A3306F10BBFB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/osoblanco/IOS-test-Browser</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7BDD5759-50FA-46D9-B1F9-A3306F10BBFB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7BDD5759-50FA-46D9-B1F9-A3306F10BBFB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestBrowser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
