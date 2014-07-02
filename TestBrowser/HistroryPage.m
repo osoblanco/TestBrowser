@@ -28,7 +28,6 @@
     [super viewDidLoad];
 }
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath{
-//    [self addToTransfer];
     NSURL *URL = self.histroryArr[indexPath.row];
     if ([self.delegate respondsToSelector:@selector(openUrlWithurl:)]) {
         [self.delegate openUrlWithurl:URL];
